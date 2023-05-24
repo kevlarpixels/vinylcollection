@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinylcollection/static/css/main.a6ee0d03.css",
+    "main.js": "/vinylcollection/static/js/main.d8e62fcb.js",
+    "static/js/787.6bae8a0c.chunk.js": "/vinylcollection/static/js/787.6bae8a0c.chunk.js",
+    "index.html": "/vinylcollection/index.html",
+    "main.a6ee0d03.css.map": "/vinylcollection/static/css/main.a6ee0d03.css.map",
+    "main.d8e62fcb.js.map": "/vinylcollection/static/js/main.d8e62fcb.js.map",
+    "787.6bae8a0c.chunk.js.map": "/vinylcollection/static/js/787.6bae8a0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ee0d03.css",
+    "static/js/main.d8e62fcb.js"
+  ]
+}
